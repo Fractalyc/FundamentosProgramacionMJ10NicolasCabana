@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\obj\Debug\4.ConditionalsSSAndDD.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\obj\Debug\4.ConditionalsSSAndDD.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\bin\Debug\4.ConditionalsSSAndDD.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\bin\Debug\4.ConditionalsSSAndDD.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\bin\Debug\4.ConditionalsSSAndDD.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\obj\Debug\4.ConditionalsSSAndDD.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\4.ConditionalsSSAndDD\4.ConditionalsSSAndDD\obj\Debug\4.ConditionalsSSAndDD.pdb
