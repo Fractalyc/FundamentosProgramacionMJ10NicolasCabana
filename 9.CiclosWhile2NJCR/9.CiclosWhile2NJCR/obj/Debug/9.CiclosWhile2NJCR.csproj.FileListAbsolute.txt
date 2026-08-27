@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\bin\Debug\9.CiclosWhile2NJCR.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\bin\Debug\9.CiclosWhile2NJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\bin\Debug\9.CiclosWhile2NJCR.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\obj\Debug\9.CiclosWhile2NJCR.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\obj\Debug\9.CiclosWhile2NJCR.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\obj\Debug\9.CiclosWhile2NJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\9.CiclosWhile2NJCR\9.CiclosWhile2NJCR\obj\Debug\9.CiclosWhile2NJCR.pdb
