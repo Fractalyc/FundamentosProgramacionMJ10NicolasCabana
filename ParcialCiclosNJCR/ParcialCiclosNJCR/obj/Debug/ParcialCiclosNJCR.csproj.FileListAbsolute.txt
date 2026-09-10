@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\bin\Debug\ParcialCiclosNJCR.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\bin\Debug\ParcialCiclosNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\bin\Debug\ParcialCiclosNJCR.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\obj\Debug\ParcialCiclosNJCR.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\obj\Debug\ParcialCiclosNJCR.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\obj\Debug\ParcialCiclosNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\ParcialCiclosNJCR\ParcialCiclosNJCR\obj\Debug\ParcialCiclosNJCR.pdb
