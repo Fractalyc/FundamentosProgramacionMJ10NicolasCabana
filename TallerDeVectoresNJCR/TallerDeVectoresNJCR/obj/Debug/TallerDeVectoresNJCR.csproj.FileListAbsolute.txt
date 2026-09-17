@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\bin\Debug\TallerDeVectoresNJCR.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\bin\Debug\TallerDeVectoresNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\bin\Debug\TallerDeVectoresNJCR.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\obj\Debug\TallerDeVectoresNJCR.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\obj\Debug\TallerDeVectoresNJCR.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\obj\Debug\TallerDeVectoresNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerDeVectoresNJCR\TallerDeVectoresNJCR\obj\Debug\TallerDeVectoresNJCR.pdb
