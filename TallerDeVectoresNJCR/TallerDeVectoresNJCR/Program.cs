@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 namespace TallerDeVectoresNJCR
 {
@@ -56,43 +57,60 @@ namespace TallerDeVectoresNJCR
             }
             Console.WriteLine($"La cantidad de datos de mismo valor y posición es: {eIguales}");
             */
-
-            int[] posNeg = new int[20];
+            /*
+            float[] posNeg = new float[20];
             int counter = 0;
-            int promedio = 0;
+            float promedio = 0;
             int reCounter = 0;
-            int comparerMay = 0;
             int counterMay = 0;
-            int comparerMen = 0;
             int counterMen = 0;
 
             while(counter < 20)
             {
                 Console.WriteLine($"Ingrese el número para P{counter + 1}:I{counter}: del vector 1");
-                posNeg[counter] = int.Parse(Console.ReadLine());
+                posNeg[counter] = float.Parse(Console.ReadLine());
                 promedio += posNeg[counter];
                 counter++;
             }
             promedio = promedio / 20;
-            Console.WriteLine($"EL promedio es {promedio}");
-
-            while(reCounter < 20)
+            while (reCounter < 20)
             {
-                if(reCounter == 0)
-                {
-                    comparerMay = posNeg[reCounter];
-                    comparerMen = posNeg[reCounter];
-                }
-                if (comparerMay > promedio)
+                if (posNeg[reCounter] > promedio)
                 {
                     counterMay++;
                 }
-                if (comparerMen < promedio)
+                else if (posNeg[reCounter] < promedio)
                 {
                     counterMen++;
                 }
                 reCounter++;
             }
+            Console.WriteLine($"EL promedio es {promedio}");
+            Console.WriteLine($"La cantidad de números por encima del promedio es: {counterMay}");
+            Console.WriteLine($"La cantidad de números por debajo del promedio es: {counterMen}");
+            */
+            /*
+            char[] vectorN = new char[5];
+            int indexCount = 0;
+            Console.WriteLine("Escriba 1 caracter.");
+
+            while (indexCount < 5)
+            {
+                Console.WriteLine($"Ingrese el número para P{indexCount + 1}:I{indexCount}: del vector 1");
+                vectorN[indexCount] = char.Parse(Console.ReadLine());
+                indexCount++;
+            }
+            Console.WriteLine($"Vector is: {vectorN[0]}{vectorN[1]}{vectorN[2]}{vectorN[3]}{vectorN[4]}");
+            indexCount = 4;
+            Console.Write("And !Vector is: ");
+            while (indexCount >= 0)
+            {
+                Console.Write(vectorN[indexCount]);
+                indexCount--;
+            }
+            */
+
+
         }
     }
 }

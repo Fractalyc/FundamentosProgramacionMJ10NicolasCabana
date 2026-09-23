@@ -86,9 +86,9 @@ namespace TallerPrepParcial2
             int totalResp = 0;
             int contResp = 0;
             int selection = 0;
-            int inFavor = 1;
-            int Against = 2;
-            int noContest = 3;
+            int inFavor = 0;
+            int Against = 0;
+            int noContest = 0;
             int ifPercent = 0;
             int aPercent = 0;
             int ncPercent = 0;
@@ -98,6 +98,7 @@ namespace TallerPrepParcial2
             Console.WriteLine("Ingrese el número según lo votado: A Favor = 1  |  En Contra = 2  |  No Responde = 3");
             do
             {
+                contResp++;
                 Console.WriteLine("Ingrese el voto: ");
                 selection = int.Parse(Console.ReadLine());
                 if (selection == 1)
@@ -112,13 +113,12 @@ namespace TallerPrepParcial2
                 {
                     noContest++;
                 }
-                contResp++;
             }
-            while (contResp <= totalResp);
+            while (contResp < totalResp);
 
-            ifPercent = (100 / totalResp) * inFavor;
-            aPercent = (100 / totalResp) * Against;
-            ncPercent = (100 / totalResp) * ncPercent;
+            ifPercent = (inFavor / totalResp) * 100;
+            aPercent = (Against / totalResp) * 100;
+            ncPercent = (noContest / totalResp) * 100;
             Console.WriteLine($"El porcentaje de personas a favor es {ifPercent}");
             Console.WriteLine($"El porcentaje de personas en contra es {aPercent}");
             Console.WriteLine($"El porcentaje de personas sin responder es {ncPercent}");
