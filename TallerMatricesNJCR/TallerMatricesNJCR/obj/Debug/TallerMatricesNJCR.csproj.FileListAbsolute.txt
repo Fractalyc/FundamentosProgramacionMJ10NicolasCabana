@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\bin\Debug\TallerMatricesNJCR.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\bin\Debug\TallerMatricesNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\bin\Debug\TallerMatricesNJCR.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\obj\Debug\TallerMatricesNJCR.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\obj\Debug\TallerMatricesNJCR.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\obj\Debug\TallerMatricesNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerMatricesNJCR\TallerMatricesNJCR\obj\Debug\TallerMatricesNJCR.pdb
