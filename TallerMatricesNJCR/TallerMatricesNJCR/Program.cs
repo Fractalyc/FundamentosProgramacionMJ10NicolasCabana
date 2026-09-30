@@ -77,10 +77,10 @@ namespace TallerMatricesNJCR
                 Console.WriteLine();
             }
             */
-
+            /*
             //Contar frecuencia de nums del 1 al 10 en una matriz 5x5
             int[,] matrizFrecuencia = new int[5, 5];
-            int[] FrecCounter = new int[10];
+            int[] FrecCounter = new int[11];
             Random matFrec = new Random();
             for (int i = 0; i < matrizFrecuencia.GetLength(1); i++)
             {
@@ -88,9 +88,98 @@ namespace TallerMatricesNJCR
                 {
                     matrizFrecuencia[j, i] = matFrec.Next(1, 11);
                     Console.Write(matrizFrecuencia[j, i] + " ");
+                    FrecCounter[matrizFrecuencia[j, i]]++;
                 }
                 Console.WriteLine();
             }
+            for (int i = 0; i < 11; i++)
+            {
+                Console.WriteLine($"Número {i}: se repite {FrecCounter[i]} veces");
+            }
+            */
+            /*
+            //Adivinar donde está la x en matriz 5x5
+            char[,] guessX = new char[5,5];
+            Random assigner = new Random();
+            int guessF = 0;
+            int guessF1 = 0;
+            int guessF2 = 0;
+            int guessF3 = 0;
+            int guessC = 0;
+            int guessC1 = 0;
+            int guessC2 = 0;
+            int guessC3 = 0;
+            int counterCorrect = 0;
+
+            for (int i = 0; i < guessX.GetLength(1); i++)
+            {
+                for (int j = 0; j < guessX.GetLength(0); j++)
+                {
+                    guessX[i,j] = '0';
+                }
+            }
+            Console.WriteLine();
+
+            for(int k = 0; k < 3; k++)
+            {
+                guessX[assigner.Next(1, 5), assigner.Next(1, 5)] = 'X';
+            }
+            
+            Console.WriteLine("Adivine donde están las X");
+            for (int l = 0; l < 3; l++)
+            {
+                Console.WriteLine((l + 1) + "Ingrese número de fila");
+                guessF = int.Parse(Console.ReadLine());
+                Console.WriteLine((l + 1) + "Ingrese número de columna");
+                guessC = int.Parse(Console.ReadLine());
+                if (guessX[guessF,guessC] == 'X')
+                {
+                    counterCorrect++;
+                    if(counterCorrect == 1)
+                    {
+                        guessF1 = guessF;
+                        guessC1 = guessC;
+                    }
+                    if (counterCorrect == 2)
+                    {
+                        guessF2 = guessF;
+                        guessC2 = guessC;
+                    }
+                    if (counterCorrect == 3)
+                    {
+                        guessF3 = guessF;
+                        guessC3 = guessC;
+                    }
+                }
+            }
+
+            if(counterCorrect == 0)
+            {
+                Console.WriteLine("No ha acertado ninguna X");
+                for (int i = 0; i < guessX.GetLength(1); i++)
+                {
+                    for (int j = 0; j < guessX.GetLength(0); j++)
+                    {
+                        Console.Write(guessX[i, j]);
+                    }
+                    Console.WriteLine();
+                }
+            }
+            else if (counterCorrect == 1)
+            {
+                Console.WriteLine($"Encontraste la X en [{guessF1},{guessC1}]");
+            }
+            else if (counterCorrect == 2)
+            {
+                Console.WriteLine($"Encontraste la X en [{guessF1},{guessC1}] y [{guessF2},{guessC2}]");
+            }
+            else if (counterCorrect == 3)
+            {
+                Console.WriteLine($"Encontraste la X en [{guessF1},{guessC1}], [{guessF2},{guessC2}] y [{guessF3},{guessC3}]");
+            }
+            */
+
+
         }
     }
 }
