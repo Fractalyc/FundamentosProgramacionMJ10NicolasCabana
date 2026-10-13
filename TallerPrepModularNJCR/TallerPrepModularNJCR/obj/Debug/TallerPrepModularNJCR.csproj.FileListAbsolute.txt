@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\bin\Debug\TallerPrepModularNJCR.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\bin\Debug\TallerPrepModularNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\bin\Debug\TallerPrepModularNJCR.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\obj\Debug\TallerPrepModularNJCR.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\obj\Debug\TallerPrepModularNJCR.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\obj\Debug\TallerPrepModularNJCR.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\FundamentosProgramacionMJ10NicolasCabana\TallerPrepModularNJCR\TallerPrepModularNJCR\obj\Debug\TallerPrepModularNJCR.pdb
