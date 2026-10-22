@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\bin\Debug\FinalProgramNJCRySAG.exe.config
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\bin\Debug\FinalProgramNJCRySAG.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\bin\Debug\FinalProgramNJCRySAG.pdb
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\obj\Debug\FinalProgramNJCRySAG.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\obj\Debug\FinalProgramNJCRySAG.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\obj\Debug\FinalProgramNJCRySAG.exe
+C:\Users\B09S104est\Documents\Trabajos NJCR 202602\AiudaCopia\FinalProgramNJCRySAG\FinalProgramNJCRySAG\obj\Debug\FinalProgramNJCRySAG.pdb
